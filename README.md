@@ -1,0 +1,1 @@
+# Embroidery Nerd Discord Bot
